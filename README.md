@@ -1,5 +1,4 @@
-# cproje
-## İlk sınıf programlama dersi projesi.
-## C ile soru oyunu yapılmıştır. Projede bir dosyadan sorular çekilir ve oyuncuya sorulur.
-## Oyuncu oyunu bitirince puan alır ve adı ile beraber puanı kayıt edilir.
-## Kullanıcı soru ekleme, silme ve güncelleme işlemlerini yapabilir.
+## First grade programming lesson project.
+## A question game was made with C. In the project, questions are drawn from a file and asked to the player.
+## When the player finishes the game, he gets points and his score is recorded along with his name.
+## User can add, delete and update questions.
